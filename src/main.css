@@ -1,0 +1,146 @@
+:root {
+
+    /* Colors: */
+    --whie: #FFFFFF;
+    --black: #000000;
+    
+    /* Font/text values */
+    --unnamed-font-family-paralucent: Paralucent;
+    --unnamed-font-style-normal: normal;
+    --unnamed-font-weight-300: 300px;
+    --unnamed-font-size-8: 8px;
+    --unnamed-font-size-10: 10px;
+    --unnamed-font-size-12: 12px;
+    --unnamed-font-size-16: 16px;
+    --unnamed-font-size-20: 20px;
+    --unnamed-font-size-25: 25px;
+    --unnamed-font-size-31: 31px;
+    --unnamed-font-size-39: 39px;
+    --unnamed-font-size-48: 48px;
+    --unnamed-font-size-61: 61px;
+    --unnamed-font-size-76: 76px;
+    --unnamed-font-size-95: 95px;
+    --unnamed-character-spacing-0: 0px;
+    --unnamed-line-spacing-10: 10px;
+    --unnamed-line-spacing-13: 13px;
+    --unnamed-line-spacing-14: 14px;
+    --unnamed-line-spacing-19: 19px;
+    --unnamed-line-spacing-24: 24px;
+    --unnamed-line-spacing-30: 30px;
+    --unnamed-line-spacing-37: 37px;
+    --unnamed-line-spacing-47: 47px;
+    --unnamed-line-spacing-58: 58px;
+    --unnamed-line-spacing-73: 73px;
+    --unnamed-line-spacing-91: 91px;
+    --unnamed-line-spacing-114: 114px;
+    }
+    
+    /* Character Styles */
+    .unnamed-character-style-1 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-8);
+    line-height: var(--unnamed-line-spacing-10);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-2 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-12);
+    line-height: var(--unnamed-line-spacing-14);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-3 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-10);
+    line-height: var(--unnamed-line-spacing-13);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-4 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-16);
+    line-height: var(--unnamed-line-spacing-19);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-5 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-20);
+    line-height: var(--unnamed-line-spacing-24);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-6 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-48);
+    line-height: var(--unnamed-line-spacing-58);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-7 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-39);
+    line-height: var(--unnamed-line-spacing-47);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-8 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-31);
+    line-height: var(--unnamed-line-spacing-37);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-9 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-25);
+    line-height: var(--unnamed-line-spacing-30);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-10 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-61);
+    line-height: var(--unnamed-line-spacing-73);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-11 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-76);
+    line-height: var(--unnamed-line-spacing-91);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }
+    .unnamed-character-style-12 {
+    font-family: var(--unnamed-font-family-paralucent);
+    font-style: var(--unnamed-font-style-normal);
+    font-weight: var(--unnamed-font-weight-300);
+    font-size: var(--unnamed-font-size-95);
+    line-height: var(--unnamed-line-spacing-114);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--whie);
+    }

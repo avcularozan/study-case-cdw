@@ -1,0 +1,21 @@
+.container {
+  /* Layout Properties */
+  height: 33px;
+  padding-top: 3.5em;
+  padding-left: 5em;
+  padding-right: 5em;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  /* Layout Properties */
+  width: 100px;
+  height: 33px;
+}
+
+.menu-icon {
+  width: 40px;
+  height: 29px;
+  cursor: pointer;
+}

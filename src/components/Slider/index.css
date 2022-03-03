@@ -1,0 +1,35 @@
+.slider-container {
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+}
+
+.item1 {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+.item1 hr {
+  height: 10px;
+  background: gray 0% 0% no-repeat padding-box;
+}
+
+.content-id {
+  text-align: left;
+  font: normal normal bold 39px/47px Paralucent;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+
+.content-name {
+  text-align: left;
+  font: normal normal 300 20px/24px Paralucent;
+  letter-spacing: 0.4px;
+  color: #ffffff;
+  padding-bottom: 5px;
+}
+
+.item-selected {
+  background: #ffffff 0% 0% no-repeat padding-box !important;
+}

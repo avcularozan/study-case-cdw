@@ -1,6 +1,7 @@
 import './App.css'
 import Content from './components/Content'
 import Header from './components/Header'
+import Slider from './components/Slider'
 import { initialData } from './data'
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
         type={initialData[1].type}
         date={initialData[1].date}
       />
+      <Slider list={initialData} />
     </div>
   )
 }

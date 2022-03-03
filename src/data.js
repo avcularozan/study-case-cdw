@@ -9,27 +9,31 @@ export const initialData = [
     name: 'Cennet Koyu Modern House',
     type: 'Exterior Design',
     date: '2018',
-    image: image1
+    image: image1,
+    selected: false
   },
   {
     id: '02',
     name: 'SwissOtel Bodrum Beach Room',
     type: 'Interior Design',
     date: '2015',
-    image: image2
+    image: image2,
+    selected: false
   },
   {
     id: '03',
     name: 'OXA Gündoğan Houses',
     type: 'Interior & Exterior Design',
     date: '2017',
-    image: image3
+    image: image3,
+    selected: false
   },
   {
     id: '04',
     name: 'Cennet Koyu Stone House',
     type: 'Exterior Design',
     date: '2018',
-    image: image4
+    image: image4,
+    selected: true
   }
 ]

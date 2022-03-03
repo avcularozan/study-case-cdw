@@ -4,14 +4,19 @@
   justify-content: space-between;
 }
 
-.item1 {
+.item {
   padding-left: 2px;
   padding-right: 2px;
+  cursor: pointer;
 }
 
-.item1 hr {
+.item hr {
   height: 10px;
   background: gray 0% 0% no-repeat padding-box;
+}
+
+.item-selected {
+  background: #ffffff 0% 0% no-repeat padding-box !important;
 }
 
 .content-id {
@@ -28,8 +33,4 @@
   letter-spacing: 0.4px;
   color: #ffffff;
   padding-bottom: 5px;
-}
-
-.item-selected {
-  background: #ffffff 0% 0% no-repeat padding-box !important;
 }

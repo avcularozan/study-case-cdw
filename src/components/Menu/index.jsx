@@ -1,9 +1,9 @@
-import './index.css'
 import close from '../../assets/icons/close.svg'
 import facebook from '../../assets/icons/facebook.svg'
 import instagram from '../../assets/icons/instagram.svg'
 import twitter from '../../assets/icons/twitter.svg'
 import youtube from '../../assets/icons/youtube.svg'
+import './index.css'
 
 const Menu = ({ closeMenu }) => {
   return (
@@ -12,7 +12,7 @@ const Menu = ({ closeMenu }) => {
         <div style={{ paddingRight: '5em' }}>
           <img className="close-icon" src={close} onClick={closeMenu} />
         </div>
-        <div className='item-container'>
+        <div className="item-container">
           <div className="menu-items">
             <p>Home</p>
             <p>About Us</p>

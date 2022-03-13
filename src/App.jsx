@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState } from 'react'
 import './App.css'
 import Content from './components/Content'
 import Header from './components/Header'
@@ -20,6 +20,9 @@ const App = () => {
         item.selected = false
       }
     })
+    if (isMenuActive) {
+      setIsMenuActive(false)
+    }
   }
 
   return (

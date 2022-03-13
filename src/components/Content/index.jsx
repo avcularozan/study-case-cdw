@@ -1,11 +1,11 @@
-import './index.css'
 import arrowRight from '../../assets/icons/arrow-right.svg'
+import './index.css'
 
 const Content = ({ name, type, date }) => {
   return (
     <div className="content-container">
       <div className="info">
-        <div className='date-type'>
+        <div className="date-type">
           <span className="date">{date}</span>
           <span className="type">{type}</span>
         </div>

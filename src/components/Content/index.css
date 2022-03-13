@@ -1,6 +1,5 @@
 .content-container {
   flex: 3;
-  color: var(--whie);
 }
 
 .info {
@@ -18,12 +17,6 @@
   left: 140px;
   width: 77px;
   height: 47px;
-  /* UI Properties */
-  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300)
-    var(--unnamed-font-size-39) / var(--unnamed-line-spacing-47)
-    var(--unnamed-font-family-paralucent);
-  letter-spacing: var(--unnamed-character-spacing-0);
-  color: var(--whie);
   text-align: left;
   font: normal normal 300 39px/47px Paralucent;
   letter-spacing: 0px;
@@ -43,10 +36,6 @@
   /* Layout Properties */
   width: 629px;
   /* UI Properties */
-  font: var(--unnamed-font-style-normal) normal var(--unnamed-font-weight-300)
-    var(--unnamed-font-size-76) / 76px var(--unnamed-font-family-paralucent);
-  letter-spacing: var(--unnamed-character-spacing-0);
-  color: var(--whie);
   text-align: left;
   font: normal normal 300 76px/76px Paralucent;
   letter-spacing: 0px;
@@ -61,10 +50,6 @@
   justify-content: space-between;
   width: 88px;
   height: 30px;
-  /* UI Properties */
-  font: var(--unnamed-font-style-normal) normal medium
-    var(--unnamed-font-size-25) / var(--unnamed-line-spacing-30)
-    var(--unnamed-font-family-paralucent);
   text-align: left;
   letter-spacing: 0px;
   color: #ffffff;

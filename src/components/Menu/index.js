@@ -7,12 +7,12 @@ import youtube from '../../assets/icons/youtube.svg'
 
 const Menu = ({ closeMenu }) => {
   return (
-    <div className="menu-container">
+    <div className="menu-container menu">
       <div>
         <div style={{ paddingRight: '5em' }}>
           <img className="close-icon" src={close} onClick={closeMenu} />
         </div>
-        <div className="menu">
+        <div className='item-container'>
           <div className="menu-items">
             <p>Home</p>
             <p>About Us</p>
